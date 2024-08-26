@@ -1,0 +1,60 @@
+    body{   
+        font-family: "Source Sans 3", sans-serif; 
+    }
+
+    .container{
+        background: #FBF9EE;
+        text-align: center;
+        margin: 0 auto; 
+        width: 450px;
+        padding: 40px 60px 60px 60px;
+        border: 2px solid #f4efd7;
+        border-radius: 12px; 
+    }
+
+    h5{
+        text-transform: uppercase; 
+        letter-spacing: 2px; 
+        color:#23675A; 
+        font-weight: 700; 
+        margin-bottom: 0px;
+    }
+
+    h1{
+        font-family: "Corben", sans-serif; 
+        font-size: 40px; 
+        line-height: 1;
+        font-weight: 400; 
+        color:#23675A; 
+        margin-top: 8px;
+    }
+
+
+    p{ 
+        font-size: 18px; 
+        font-weight: 400;
+        line-height: 1.4;
+        color: #6c7d77; 
+        margin-bottom: 40px;
+    } 
+
+    a{     
+        text-decoration: none;
+    }
+
+    .boton {
+        padding: 12px 24px; 
+        border-radius: 6px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+    .boton-primario{ 
+        color: white;
+        background-color: #eb4f1e; 
+    } 
+
+    .boton-secundario{ 
+        color: #eb4f1e; 
+        background-color: rgba(235, 79, 30, 0.1); 
+    } 
